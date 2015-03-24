@@ -1,0 +1,1 @@
+This repository is used to back the website <a href="http://mbialas.github.io">http://mbialas.github.io</a>, which provides information about myself as a software developer. This code is free to make use of, copy, or redistribute.
